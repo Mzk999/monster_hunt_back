@@ -1,4 +1,4 @@
-# MonsterHunt ~討伐の刻 (The Time of Subjugation)~
+# MonsterHunt 
 
 モンスターを討伐して冒険を楽しむクエストアプリ！  
 プレイヤーはモンスターと戦い、経験値や報酬を獲得して成長していきます。
